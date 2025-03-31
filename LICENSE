@@ -1,0 +1,16 @@
+
+---
+
+## 📁 `logs/sample_access_log.json`
+
+```json
+{
+  "userId": "user_2345",
+  "timestamp": "2025-03-30T14:45:27Z",
+  "resource": "bigquery.table.recommendations_v1",
+  "action": "READ",
+  "ipAddress": "203.0.113.42",
+  "location": "asia-south1",
+  "approvalStatus": "GRANTED",
+  "purpose": "Generate personalized recommendations"
+}
